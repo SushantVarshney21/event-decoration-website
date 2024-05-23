@@ -197,13 +197,13 @@ a{
 }
 
 #categories .card:nth-child(3){
-    background: url(image/dec\ stage.jpg);
+    background: url(image/weedng\ stage\ dec.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 
 #categories .card:nth-child(4){
-    background: url(image/dec\ anniversary.jpg);
+    background: url(image/dec\ g3.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -215,17 +215,17 @@ a{
 }
 
 #categories .card:nth-child(6){
-    background: url(image/dec\ shopping.jpg);
+    background: url(image/mandap\ main.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 #categories .card:nth-child(7){
-    background: url(image/dec\ corporate.jpg);
+    background: url(image/festival\ decoration.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 #categories .card:nth-child(8){
-    background: url(image/dec\ promo.jpg);
+    background: url(image/roof\ dec.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -235,9 +235,13 @@ a{
     border-radius: 22px;
 } */
 #categories .card h3{
-    color: 	rgb(170, 242, 245);
+    color: #DE3163;
+    background-color: rgba(172, 166, 166, 0.527);
     font-size: 40px;
-    display: none
+    display: none;
+    margin: 12px;
+    padding: 12px;
+    border-radius: 8px;
 }
 
 
